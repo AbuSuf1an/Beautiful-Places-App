@@ -30,6 +30,13 @@
 	<key>NSCameraUsageDescription</key>
 	<string>We need to take a picture!</string>
 
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Location access needed!</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Location access needed!</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Location access needed!</string>
+
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
